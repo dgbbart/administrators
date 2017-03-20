@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="1501" MadCap:lastWidth="848" MadCap:tocPath="" MadCap:medium="print" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="PDF">
+    <head><title>1 FlexNet Licenses Explained</title>
+        <link href="file:///C:/documentation/Administrators/Administrators/Output/bart/Temporary/administrators/administrators_13CA3AEB/Resources/Stylesheets/Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1 MadCap:xrefTargetName="1 FlexNet Licenses Explained"><a MadCap:generatedBookmark="TOC" name="1 FlexNet Licenses Explained"></a>1 FlexNet Licenses Explained<MadCap:keyword term="FlexNet Licenses Explained" /></h1>
+        <p>Let us suppose you have received a 2-user license for a module. Normally you will have obtained a floating license, meaning that you will be able to use the module from any machine, and two users can be busy with it at the same time.</p>
+        <p style="font-weight: bold;">Server side: The License Manager Daemon</p>
+        <p>To be able to enforce the license, there must be a piece of software somewhere that keeps track of who is using the module. That is the License Manager Daemon (LMD). The LMD can run on any machine, also on machines that you will never use the module itself on. Good candidates are stable UNIX servers.</p>
+        <p>When the LMD is started, it looks at a file containing the information about what should be supported. This file is called the License File. Actually, the LMD can only be started on the machine indicated in the license file. The license file could look like this:</p>
+        <p><code>SERVER licserv 000347e8b845<br />DAEMON dgbld /apps/opendtect/4.4.0/bin/lux64/lm.dgb/dgbld<br />FEATURE dTect dgbld 4.400 1-jan-2013 2 6592FDC619EA DUP_GROUP=D<br />FEATURE dTectDS dgbld 4.400 1-jan-2013 2 011D5153D870 DUP_GROUP=D</code>
+        </p>
+        <p>The first line tells us that the LMD must be started on the machine licserv, with FlexNet ID <code>000347e8b845</code>. The second line is interesting for the LMD only but then you see two actual license FEATURE lines (<code>dTect</code> and <code>dTectDS</code>). These licenses are valid for versions 4.4 and lower, until the 1st of January 2013, for two users (<code>4.400 1-jan-2013 2</code>).</p>
+        <p style="font-weight: bold;">The Client side: Your program</p>
+        <p>Now let's look at the machine that you run your software on. The program will at some point in time need to check whether there is a license for what you are trying to do. For this, the program looks at the same license file. It sees that it has to contact the machine 'licserv' to ask for permission. The LMD keeps track of the number of users already using the license feature. If a license is granted, your program will go on, otherwise you'll get an error message.</p>
+        <p style="font-weight: bold;">Non-floating licenses</p>
+        <p>In some cases the software will never be used other than on a certain machine. In that case a node-locked license can be issued. For such a license you do not need to start a license manager daemon - an unlimited number of users can use the module at the same time provided they work on that particular machine. A special case is the unlimited demo license, which grants unlimited access for any number of users on any machine. It goes without saying that this kind of license is always for short periods.</p>
+        <p style="font-weight: bold;">Host identification</p>
+        <p>For the above schemes to work, the license server or the running machine must be uniquely identified. Therefore, you will be asked to provide a unique host ID and a hostname when you want to obtain a license. Different operating systems require different ways to obtain this information:</p>
+        <ul>
+            <li value="1"><b>Windows:</b> On windows, there is a FlexNet utility that delivers both in a simple file that can be sent by e-mail. It is delivered together with commercial plugins so you need to install one of those first. From the Start menu, select Programs-OpendTect-License Manager Tools. Select the tab 'System Settings'. Then push the 'Save HOSTID Info to a File' button</li>
+            <li value="2"><b>UNIX:</b> The hostname is obtained with the unix command hostname. The host ID differs per UNIX flavor, but can always be obtained by the 'lmhostid' tool. This tool is delivered with OpendTect, and can be run from the Utitlities-Batch Programs dialog.</li>
+        </ul>
+        <p>If you need to obtain the host ID before OpendTect is installed:</p>
+        <ul>
+            <li value="1"><b>Windows:</b> Open a 'command prompt' (For example, by running 'cmd') and issue a command like: <code>ipconfig /all &gt; c:\Temp\ipcfg.txt</code> You can send ipcfg.txt or look for the 'Physical address'</li>
+            <li value="2"><b>Linux and Mac OS X:</b> Run <code>/sbin/ifconfig</code> in a terminal. On Linux look for <code>HWAddr</code>, on Mac <code>ether</code>. You want the MAC address, looking like <code>xx:xx:xx:xx:xx:xx</code> - that's 6 groups of 2 hex numbers. Example: <code>00:1C:C0:38:22:F1</code>. Usually the first one reported is the main card, in doubt you can provide all</li>
+            <li value="3">Solaris: Run <code>hostid</code>.</li>
+        </ul>
+        <p>If for some reason one of these commands does not work: we need the MAC address of the main network card. Sending the IP address of a machine is never helpful.</p>
+        <p style="font-weight: bold;">Conclusion (Manager's summary)</p>
+        <p>The FlexNet license system is based upon internet technology. Therefore you can run your software on any machine, using any operating system, to get licenses from any other machine regardless of operating system or physical location. Thus, a Linux license server in Houston can manage the licenses for Windows, Linux and Mac OS X machines in Houston, Caracas and Paris. The only restriction is the number of users actually using the 'feature' at a certain time, but that is what you pay for.</p>
+        <p>For more information, see FlexNet Licensing End User Guide.</p>
+    </body>
+</html>

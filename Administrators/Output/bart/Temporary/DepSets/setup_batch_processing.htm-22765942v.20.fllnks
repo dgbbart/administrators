@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/Installation setup batch proc.png" />
+    <Link
+      Url="Content/Resources/Images/batchhost.png" />
+    <Link
+      Url="Content/Resources/Images/Installation setup batch proc advanced.png" />
+    <Link
+      Url="Content/Resources/Images/addnew.png" />
+    <Link
+      Url="Content/Resources/Images/delete.png" />
+    <Link
+      Url="Content/Resources/Images/uparrow.png" />
+    <Link
+      Url="Content/Resources/Images/downarrow.png" />
+    <Link
+      Url="Content/Resources/Images/checkgreen.png" />
+    <Link
+      Url="Content/Resources/Images/Installation setup batch proc test hosts.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/Installation setup batch proc.png" />
+    <Link
+      Url="Content/Resources/Images/batchhost.png" />
+    <Link
+      Url="Content/Resources/Images/Installation setup batch proc advanced.png" />
+    <Link
+      Url="Content/Resources/Images/addnew.png" />
+    <Link
+      Url="Content/Resources/Images/delete.png" />
+    <Link
+      Url="Content/Resources/Images/uparrow.png" />
+    <Link
+      Url="Content/Resources/Images/downarrow.png" />
+    <Link
+      Url="Content/Resources/Images/checkgreen.png" />
+    <Link
+      Url="Content/Resources/Images/Installation setup batch proc test hosts.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Setup Batch Processing"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

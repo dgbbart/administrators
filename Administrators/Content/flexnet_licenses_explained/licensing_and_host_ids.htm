@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="736" MadCap:lastWidth="822">
+    <head>
+    </head>
+    <body>
+        <h2>1.1 Licensing and Host IDs<MadCap:keyword term="Licensing and Host IDs" /></h2>
+        <p>OpendTect uses FlexNet to manage its licensing. There are two main types of license:</p>
+        <ul>
+            <li><b>Node-locked:</b> The license file is tied directly to a specific client machine (or selection of machines) through its ‘HostID’. This option is popular for laptops and for single-user desktop setups. Installation is very simple.</li>
+            <li><b>Floating License:</b> The license file is generated for, and tied to a dedicated server via its ‘HostID’. The license manager on the server then issues licenses to client machines. This option is more suited for multiple users. Installation can be more involved.</li>
+        </ul>
+        <p>In order to generate a license, we need the HostID of the machine or server, depending on license type:</p>
+        <ul>
+            <li>If Server-based (floating) license<ul><li>Server (Host) Name</li><li>Server (Host) ID</li></ul></li>
+            <li>If node-locked license<ul><li>Host ID</li></ul></li>
+        </ul>
+        <p>To discover the HostID:</p>
+        <ul>
+            <li>OpendTect Pro (all platforms): Utilities &gt; Installation &gt; Licenses &gt; Show HostID…</li>
+        </ul>
+        <center>
+            <img src="../Resources/Images/hostid.png" />
+        </center>
+        <p class="note">Licenses &gt; Show HostID… does not appear under the Utilities &gt; Installation… options in the GPL version. You will have to install OpendTect Pro to access this utility.</p>
+        <p>For additional information (including alternate methods of accessing the HostID), please refer to the FlexNet Licensing End User Guide.</p>
+    </body>
+</html>

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTargetOutput
+  GeneratedTarget="/Output/bart/PDF/PDF.pdf"
+  BuildVersion="12.0.5991.25330">
+  <Files>
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Stylesheets/Styles.css" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/note.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/od-dgb-logo.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/hostid.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/petrel_menu.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/petrel_settings.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/01_utils_inst_man_popout.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/dload_page.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/03_inst_man_main.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/04_inst_man_main_expnd.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/05_pkg_slctn.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/06_pkg_man_main.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/06_pkg_man_ds_xmpl.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/inst_man_abort_inst.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/Inst_Man_460_utilities_menu.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/08_offln_inst_main.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/09_offln_inst_msg_win.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/Inst_Man_460_offline_lin_popup.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/Installation manager auto update.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/auto_update_lux.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/Installation manager connection settings.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/Installation manager plugins.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/Candidate auto-loaded plugins.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/Installation setup batch proc.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/batchhost.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/Installation setup batch proc advanced.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/addnew.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/delete.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/uparrow.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/downarrow.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/checkgreen.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/Installation setup batch proc test hosts.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/utils_inst_lics_inst_demo_popout.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/Installation licenses popout linux.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/Installation licenses install demo license.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/Node_locked_inst_confirm.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/inst_man_lm_tools_main.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/Installation licenses clear license installation.png" />
+    <Url
+      Source="Output/bart/Temporary/PDF/PDF_50835258/Resources/Images/Installation licenses show hostid lm tools.png" />
+    <Url
+      Source="Output/bart/PDF/PDF.pdf" />
+  </Files>
+  <Skins />
+</CatapultTargetOutput>

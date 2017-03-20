@@ -1,0 +1,651 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalIndex
+  SavedSource="file:///C:/documentation/Administrators/Administrators/Output/bart/Temporary/GlobalIndex v.6.catapultindex">
+  <IndexEntry>
+    <Entries>
+      <IndexEntry
+        Term="Auto-Update Policy">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="installation/auto-update_policy.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="installation/auto-update_policy.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Clear License Installation">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="installation/licenses/Clear_License_Installation.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Installation/Licenses/Clear_License_Installation.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Connection Settings">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="installation/connection_settings.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="installation/connection_settings.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Export Download List">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Installation/Update/Package Manager/Utilities_Menu/Export_Download_List.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="installation/update/package_manager/utilities_menu/export_download_list.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="installation/update/package_manager/utilities_menu/export_download_list.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="FlexNet Licenses Explained">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="flexnet_licenses_explained.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="flexnet_licenses_explained.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Install Demo/Node-Locked License">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="installation/licenses/Install_Demo_Node-Locked_License.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Installation/Licenses/Install_Demo_Node-Locked_License.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Installation">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="installation.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="installation.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Licenses">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="installation/licenses.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="installation/licenses.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Licensing and Host IDs">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="flexnet_licenses_explained/licensing_and_host_ids.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="flexnet_licenses_explained/licensing_and_host_ids.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Mac OS X 10.6 and up">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="system_requirements/mac_os_x_10.6_and_up.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="system_requirements/mac_os_x_10.6_and_up.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Offline Installation">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Installation/Update/Package Manager/Offline_Installation.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="installation/update/package_manager/offline_installation.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="installation/update/package_manager/offline_installation.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Package Manager">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="installation/update/package_manager.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="installation/update/package_manager.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Package Verification">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Installation/Update/Package Manager/Offline_Installation/Package_Verification.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="installation/update/package_manager/offline_installation/package_verification.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="installation/update/package_manager/offline_installation/package_verification.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Petrel Plugin Administration">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="petrel_plugin_administration.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="petrel_plugin_administration.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Plugins">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="installation/plugins.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="installation/plugins.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Rollback">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Installation/Update/Package Manager/Utilities_Menu/Rollback.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="installation/update/package_manager/utilities_menu/rollback.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="installation/update/package_manager/utilities_menu/rollback.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Setup Batch Processing">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="installation/setup_batch_processing.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="installation/setup_batch_processing.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Show HostID">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="installation/licenses/Show_HostID.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="Installation/Licenses/Show_HostID.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Show Log File">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Installation/Update/Package Manager/Utilities_Menu/Show_Log_File.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="installation/update/package_manager/utilities_menu/show_log_file.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="installation/update/package_manager/utilities_menu/show_log_file.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="System Requirements">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="system_requirements.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="system_requirements.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Update (Installation Manager)">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="installation/update.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="installation/update.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Utilities Menu">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Installation/Update/Package Manager/Utilities_Menu.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="installation/update/package_manager/utilities_menu.htm"
+            UsedConditions=""
+            LocalConditions="" />
+          <IndexLink
+            Link="installation/update/package_manager/utilities_menu.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+    </Entries>
+    <Links />
+    <SeeAlsoLinks />
+    <IndexControlLinks />
+    <SortAsLinks />
+  </IndexEntry>
+  <SourceUrls>
+    <Url
+      Source="flexnet_licenses_explained.htm" />
+    <Url
+      Source="installation.htm" />
+    <Url
+      Source="intro.htm" />
+    <Url
+      Source="petrel_plugin_administration.htm" />
+    <Url
+      Source="system_requirements.htm" />
+    <Url
+      Source="table_of_content.htm" />
+    <Url
+      Source="flexnet_licenses_explained/licensing_and_host_ids.htm" />
+    <Url
+      Source="installation/auto-update_policy.htm" />
+    <Url
+      Source="installation/connection_settings.htm" />
+    <Url
+      Source="installation/licenses.htm" />
+    <Url
+      Source="installation/plugins.htm" />
+    <Url
+      Source="installation/setup_batch_processing.htm" />
+    <Url
+      Source="installation/update.htm" />
+    <Url
+      Source="installation/licenses/Clear_License_Installation.htm" />
+    <Url
+      Source="installation/licenses/Install_Demo_Node-Locked_License.htm" />
+    <Url
+      Source="installation/licenses/Show_HostID.htm" />
+    <Url
+      Source="installation/update/package_manager.htm" />
+    <Url
+      Source="installation/update/package_manager/offline_installation.htm" />
+    <Url
+      Source="installation/update/package_manager/utilities_menu.htm" />
+    <Url
+      Source="installation/update/package_manager/offline_installation/package_verification.htm" />
+    <Url
+      Source="installation/update/package_manager/utilities_menu/export_download_list.htm" />
+    <Url
+      Source="installation/update/package_manager/utilities_menu/rollback.htm" />
+    <Url
+      Source="installation/update/package_manager/utilities_menu/show_log_file.htm" />
+    <Url
+      Source="Products/Product A/Article1.htm" />
+    <Url
+      Source="Products/Product A/Article2.htm" />
+    <Url
+      Source="Products/Product A/Article3.htm" />
+    <Url
+      Source="Resources/Images/01_utils_inst_man_popout.png" />
+    <Url
+      Source="Resources/Images/03_inst_man_main.png" />
+    <Url
+      Source="Resources/Images/04_inst_man_main_expnd.png" />
+    <Url
+      Source="Resources/Images/05_pkg_slctn.png" />
+    <Url
+      Source="Resources/Images/06_pkg_man_ds_xmpl.png" />
+    <Url
+      Source="Resources/Images/06_pkg_man_main.png" />
+    <Url
+      Source="Resources/Images/08_offln_inst_main.png" />
+    <Url
+      Source="Resources/Images/09_offln_inst_msg_win.png" />
+    <Url
+      Source="Resources/Images/addnew.png" />
+    <Url
+      Source="Resources/Images/auto_update_lux.png" />
+    <Url
+      Source="Resources/Images/batchhost.png" />
+    <Url
+      Source="Resources/Images/Candidate auto-loaded plugins.png" />
+    <Url
+      Source="Resources/Images/checkgreen.png" />
+    <Url
+      Source="Resources/Images/delete.png" />
+    <Url
+      Source="Resources/Images/dload_page.png" />
+    <Url
+      Source="Resources/Images/downarrow.png" />
+    <Url
+      Source="Resources/Images/hostid.png" />
+    <Url
+      Source="Resources/Images/Installation licenses clear license installation.png" />
+    <Url
+      Source="Resources/Images/Installation licenses install demo license.png" />
+    <Url
+      Source="Resources/Images/Installation licenses popout linux.png" />
+    <Url
+      Source="Resources/Images/Installation licenses show host id.png" />
+    <Url
+      Source="Resources/Images/Installation licenses show hostid lm tools.png" />
+    <Url
+      Source="Resources/Images/Installation manager auto update.png" />
+    <Url
+      Source="Resources/Images/Installation manager connection settings.png" />
+    <Url
+      Source="Resources/Images/Installation manager plugins.png" />
+    <Url
+      Source="Resources/Images/Installation setup batch proc advanced.png" />
+    <Url
+      Source="Resources/Images/Installation setup batch proc test hosts.png" />
+    <Url
+      Source="Resources/Images/Installation setup batch proc.png" />
+    <Url
+      Source="Resources/Images/Inst_Man_460_offline_lin_popup.png" />
+    <Url
+      Source="Resources/Images/Inst_Man_460_utilities_menu.png" />
+    <Url
+      Source="Resources/Images/inst_man_abort_inst.png" />
+    <Url
+      Source="Resources/Images/inst_man_lm_tools_main.png" />
+    <Url
+      Source="Resources/Images/Node_locked_inst_confirm.png" />
+    <Url
+      Source="Resources/Images/note.png" />
+    <Url
+      Source="Resources/Images/od-dgb-logo.png" />
+    <Url
+      Source="Resources/Images/petrel_menu.png" />
+    <Url
+      Source="Resources/Images/petrel_settings.png" />
+    <Url
+      Source="Resources/Images/uparrow.png" />
+    <Url
+      Source="Resources/Images/utils_inst_lics_inst_demo_popout.png" />
+    <Url
+      Source="Resources/MasterPages/KB_Master_Page.flmsp" />
+    <Url
+      Source="Resources/PageLayouts/Default.flpgl" />
+    <Url
+      Source="Resources/Stylesheets/Styles.css" />
+    <Url
+      Source="Resources/TableStyles/KBTable1.css" />
+    <Url
+      Source="Resources/TableStyles/KBTable2.css" />
+    <Url
+      Source="system_requirements/mac_os_x_10.6_and_up.htm" />
+  </SourceUrls>
+  <SourceLinkSetUrls />
+  <UsedUrls>
+    <Url
+      Source="Products/Product A/Article1.htm"
+      Terms="Product A:Article 1 | Default.Not Ready for Publish |  [4]" />
+    <Url
+      Source="Products/Product A/Article2.htm"
+      Terms="Product A:Article 2 | Default.Not Ready for Publish |  [4]" />
+    <Url
+      Source="Products/Product A/Article3.htm"
+      Terms="Product A:Article 3 | Default.Not Ready for Publish |  [4]" />
+    <Url
+      Source="flexnet_licenses_explained.htm"
+      Terms="FlexNet Licenses Explained" />
+    <Url
+      Source="flexnet_licenses_explained/licensing_and_host_ids.htm"
+      Terms="Licensing and Host IDs" />
+    <Url
+      Source="system_requirements.htm"
+      Terms="System Requirements" />
+    <Url
+      Source="system_requirements/mac_os_x_10.6_and_up.htm"
+      Terms="Mac OS X 10.6 and up" />
+    <Url
+      Source="petrel_plugin_administration.htm"
+      Terms="Petrel Plugin Administration" />
+    <Url
+      Source="installation.htm"
+      Terms="Installation" />
+    <Url
+      Source="installation/auto-update_policy.htm"
+      Terms="Auto-Update Policy" />
+    <Url
+      Source="installation/connection_settings.htm"
+      Terms="Connection Settings" />
+    <Url
+      Source="installation/licenses.htm"
+      Terms="Licenses" />
+    <Url
+      Source="installation/plugins.htm"
+      Terms="Plugins" />
+    <Url
+      Source="installation/setup_batch_processing.htm"
+      Terms="Setup Batch Processing" />
+    <Url
+      Source="installation/update.htm"
+      Terms="Update (Installation Manager)" />
+    <Url
+      Source="Installation/Licenses/Clear_License_Installation.htm"
+      Terms="Clear License Installation" />
+    <Url
+      Source="Installation/Licenses/Install_Demo_Node-Locked_License.htm"
+      Terms="Install Demo/Node-Locked License" />
+    <Url
+      Source="Installation/Licenses/Show_HostID.htm"
+      Terms="Show HostID" />
+    <Url
+      Source="installation/update/package_manager.htm"
+      Terms="Package Manager" />
+    <Url
+      Source="Installation/Update/Package Manager/Offline_Installation.htm"
+      Terms="Offline Installation" />
+    <Url
+      Source="Installation/Update/Package Manager/Utilities_Menu.htm"
+      Terms="Utilities Menu" />
+    <Url
+      Source="Installation/Update/Package Manager/Offline_Installation/Package_Verification.htm"
+      Terms="Package Verification" />
+    <Url
+      Source="Installation/Update/Package Manager/Utilities_Menu/Export_Download_List.htm"
+      Terms="Export Download List" />
+    <Url
+      Source="Installation/Update/Package Manager/Utilities_Menu/Rollback.htm"
+      Terms="Rollback" />
+    <Url
+      Source="Installation/Update/Package Manager/Utilities_Menu/Show_Log_File.htm"
+      Terms="Show Log File" />
+    <Url
+      Source="installation/update/package_manager/offline_installation/package_verification.htm"
+      Terms="Package Verification" />
+    <Url
+      Source="installation/update/package_manager/utilities_menu/export_download_list.htm"
+      Terms="Export Download List" />
+    <Url
+      Source="installation/update/package_manager/utilities_menu/rollback.htm"
+      Terms="Rollback" />
+    <Url
+      Source="installation/update/package_manager/utilities_menu/show_log_file.htm"
+      Terms="Show Log File" />
+    <Url
+      Source="installation/update/package_manager/offline_installation.htm"
+      Terms="Offline Installation" />
+    <Url
+      Source="installation/update/package_manager/utilities_menu.htm"
+      Terms="Utilities Menu" />
+  </UsedUrls>
+  <UsedIndexControlUrls />
+</CatapultGlobalIndex>
