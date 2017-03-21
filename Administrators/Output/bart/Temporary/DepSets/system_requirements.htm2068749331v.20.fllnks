@@ -4,8 +4,66 @@
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
-  <Links />
-  <LongLinks />
+  <Links>
+    <Link
+      Url="http://www.intel.nl/content/www/nl/nl/homepage.html" />
+    <Link
+      Url="http://www.amd.com/en-gb" />
+    <Link
+      Url="http://www.apple.com/icloud/" />
+    <Link
+      Url="https://www.opengl.org/" />
+    <Link
+      Url="http://www.nvidia.com/content/global/global.php" />
+    <Link
+      Url="https://www.suse.com/" />
+    <Link
+      Url="https://www.opensuse.org/" />
+    <Link
+      Url="https://www.redhat.com/en" />
+    <Link
+      Url="https://www.centos.org/" />
+    <Link
+      Url="http://static.opendtect.org/images/PDF/flexnet_licensing_end_user_guide.pdf" />
+    <Link
+      Url="Content/flexnet_licenses_explained.htm" />
+    <Link
+      Url="http://www.debian.org/" />
+    <Link
+      Url="https://www.ubuntu.com/" />
+    <Link
+      Url="https://getfedora.org/" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="http://www.intel.nl/content/www/nl/nl/homepage.html" />
+    <Link
+      Url="http://www.amd.com/en-gb" />
+    <Link
+      Url="http://www.apple.com/icloud/" />
+    <Link
+      Url="https://www.opengl.org/" />
+    <Link
+      Url="http://www.nvidia.com/content/global/global.php" />
+    <Link
+      Url="https://www.suse.com/" />
+    <Link
+      Url="https://www.opensuse.org/" />
+    <Link
+      Url="https://www.redhat.com/en" />
+    <Link
+      Url="https://www.centos.org/" />
+    <Link
+      Url="http://static.opendtect.org/images/PDF/flexnet_licensing_end_user_guide.pdf" />
+    <Link
+      Url="Content/flexnet_licenses_explained.htm" />
+    <Link
+      Url="http://www.debian.org/" />
+    <Link
+      Url="https://www.ubuntu.com/" />
+    <Link
+      Url="https://getfedora.org/" />
+  </LongLinks>
   <Anchors />
   <Keywords>
     <IndexCacheEntry

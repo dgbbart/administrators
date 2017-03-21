@@ -8,6 +8,8 @@
     <Link
       Url="Content/Resources/Images/08_offln_inst_main.png" />
     <Link
+      Url="http://www.opendtect.org/index.php/download" />
+    <Link
       Url="Content/Resources/Images/05_pkg_slctn.png" />
     <Link
       Url="Content/Resources/Images/09_offln_inst_msg_win.png" />
@@ -17,6 +19,8 @@
   <LongLinks>
     <Link
       Url="Content/Resources/Images/08_offln_inst_main.png" />
+    <Link
+      Url="http://www.opendtect.org/index.php/download" />
     <Link
       Url="Content/Resources/Images/05_pkg_slctn.png" />
     <Link

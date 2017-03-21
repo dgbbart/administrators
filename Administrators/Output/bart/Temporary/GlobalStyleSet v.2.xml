@@ -143,15 +143,16 @@
     <Tag
       Name="td" />
     <Tag
-      Name="mcTableStyle" />
+      Name="img">
+      <Class
+        Name="icon" />
+    </Tag>
     <Tag
-      Name="mcTableColumnStyle" />
+      Name="h5" />
     <Tag
-      Name="mcTableHeadStyle" />
+      Name="h6" />
     <Tag
-      Name="mcTableBodyStyle" />
-    <Tag
-      Name="mcTableFootStyle" />
+      Name="frame" />
     <Tag
       Name="madcapEditorBehavior" />
     <Tag
@@ -161,17 +162,11 @@
     <Tag
       Name="textarea" />
     <Tag
-      Name="img" />
-    <Tag
       Name="object" />
     <Tag
       Name="script" />
     <Tag
       Name="hr" />
-    <Tag
-      Name="h5" />
-    <Tag
-      Name="h6" />
     <Tag
       Name="span">
       <Class
@@ -332,8 +327,6 @@
       Name="fieldset" />
     <Tag
       Name="form" />
-    <Tag
-      Name="frame" />
     <Tag
       Name="frameset" />
     <Tag
@@ -545,10 +538,6 @@
   <SourceUrls>
     <Url
       Source="Resources/Stylesheets/Styles.css" />
-    <Url
-      Source="Resources/TableStyles/KBTable1.css" />
-    <Url
-      Source="Resources/TableStyles/KBTable2.css" />
     <Url
       Source="../../../../Program Files/MadCap Software/MadCap Flare 12/Flare.app/Resources/Schemas/xhtml.css" />
     <Url

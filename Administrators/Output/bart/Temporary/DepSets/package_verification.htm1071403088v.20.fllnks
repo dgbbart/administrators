@@ -4,8 +4,18 @@
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
-  <Links />
-  <LongLinks />
+  <Links>
+    <Link
+      Url="http://doc.opendtect.org/5.0.0/doc/od_userdoc/Default.htm" />
+    <Link
+      Url="http://www.gnu.org/" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="http://doc.opendtect.org/5.0.0/doc/od_userdoc/Default.htm#utils/install/install.htm" />
+    <Link
+      Url="http://www.gnu.org/" />
+  </LongLinks>
   <Anchors />
   <Keywords>
     <IndexCacheEntry

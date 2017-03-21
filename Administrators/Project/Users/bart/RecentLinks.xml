@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <RecentLinks>
     <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
-        <Link Value="C:\documentation\Administrators\Administrators\Content\Resources\Images\petrel_menu.png" />
+        <Link Value="C:\documentation\Administrators\Administrators\Content\Resources\Images\03_inst_man_main.png" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
+        <Link Value="C:\documentation\Administrators\Administrators\Content\flexnet_licenses_explained.htm" />
     </Dialog>
 </RecentLinks>

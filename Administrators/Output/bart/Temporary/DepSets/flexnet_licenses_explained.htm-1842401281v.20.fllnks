@@ -4,8 +4,14 @@
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
-  <Links />
-  <LongLinks />
+  <Links>
+    <Link
+      Url="http://static.dgbes.com/images/PDF/flexnet_licensing_end_user_guide.pdf" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="http://static.dgbes.com/images/PDF/flexnet_licensing_end_user_guide.pdf" />
+  </LongLinks>
   <Anchors />
   <Keywords>
     <IndexCacheEntry

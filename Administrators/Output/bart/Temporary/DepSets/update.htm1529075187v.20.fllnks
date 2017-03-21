@@ -6,23 +6,35 @@
   FilePriority="0">
   <Links>
     <Link
+      Url="http://opendtect.org/index.php/download" />
+    <Link
       Url="Content/Resources/Images/dload_page.png" />
     <Link
       Url="Content/Resources/Images/03_inst_man_main.png" />
     <Link
       Url="Content/Resources/Images/04_inst_man_main_expnd.png" />
     <Link
+      Url="http://doc.opendtect.org/6.0.0/doc/od_userdoc/Default.htm" />
+    <Link
       Url="Content/Resources/Images/05_pkg_slctn.png" />
+    <Link
+      Url="http://www.opendtect.org/index.php/download" />
   </Links>
   <LongLinks>
     <Link
+      Url="http://opendtect.org/index.php/download" />
+    <Link
       Url="Content/Resources/Images/dload_page.png" />
     <Link
       Url="Content/Resources/Images/03_inst_man_main.png" />
     <Link
       Url="Content/Resources/Images/04_inst_man_main_expnd.png" />
     <Link
+      Url="http://doc.opendtect.org/6.0.0/doc/od_userdoc/Default.htm#utilities/installation/update.htm" />
+    <Link
       Url="Content/Resources/Images/05_pkg_slctn.png" />
+    <Link
+      Url="http://www.opendtect.org/index.php/download" />
   </LongLinks>
   <Anchors />
   <Keywords>

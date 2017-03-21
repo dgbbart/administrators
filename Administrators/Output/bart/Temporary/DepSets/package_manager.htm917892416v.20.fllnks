@@ -11,6 +11,8 @@
       Url="Content/Resources/Images/06_pkg_man_ds_xmpl.png" />
     <Link
       Url="Content/Resources/Images/inst_man_abort_inst.png" />
+    <Link
+      Url="Content/installation/connection_settings.htm" />
   </Links>
   <LongLinks>
     <Link
@@ -19,6 +21,8 @@
       Url="Content/Resources/Images/06_pkg_man_ds_xmpl.png" />
     <Link
       Url="Content/Resources/Images/inst_man_abort_inst.png" />
+    <Link
+      Url="Content/installation/connection_settings.htm" />
   </LongLinks>
   <Anchors />
   <Keywords>

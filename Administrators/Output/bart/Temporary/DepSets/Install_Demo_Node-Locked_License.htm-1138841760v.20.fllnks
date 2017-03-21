@@ -12,6 +12,8 @@
     <Link
       Url="Content/Resources/Images/Node_locked_inst_confirm.png" />
     <Link
+      Url="http://dgbes.com/index.php/contact/free-evaluation" />
+    <Link
       Url="Content/Resources/Images/inst_man_lm_tools_main.png" />
   </Links>
   <LongLinks>
@@ -21,6 +23,8 @@
       Url="Content/Resources/Images/Installation licenses install demo license.png" />
     <Link
       Url="Content/Resources/Images/Node_locked_inst_confirm.png" />
+    <Link
+      Url="http://dgbes.com/index.php/contact/free-evaluation" />
     <Link
       Url="Content/Resources/Images/inst_man_lm_tools_main.png" />
   </LongLinks>

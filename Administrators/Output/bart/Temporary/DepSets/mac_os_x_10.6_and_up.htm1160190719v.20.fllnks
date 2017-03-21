@@ -4,8 +4,14 @@
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
-  <Links />
-  <LongLinks />
+  <Links>
+    <Link
+      Url="http://opendtect.org/relman/OpendTect_Installer_mac.dmg" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="http://opendtect.org/relman/OpendTect_Installer_mac.dmg" />
+  </LongLinks>
   <Anchors />
   <Keywords>
     <IndexCacheEntry

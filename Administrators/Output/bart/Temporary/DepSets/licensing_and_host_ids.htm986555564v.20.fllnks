@@ -7,10 +7,14 @@
   <Links>
     <Link
       Url="Content/Resources/Images/hostid.png" />
+    <Link
+      Url="http://static.opendtect.org/images/PDF/flexnet_licensing_end_user_guide.pdf" />
   </Links>
   <LongLinks>
     <Link
       Url="Content/Resources/Images/hostid.png" />
+    <Link
+      Url="http://static.opendtect.org/images/PDF/flexnet_licensing_end_user_guide.pdf" />
   </LongLinks>
   <Anchors />
   <Keywords>

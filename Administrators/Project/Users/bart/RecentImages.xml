@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="Resources/Images/03_inst_man_main.png" />
     <Url Source="Resources/Images/Installation licenses show hostid lm tools.png" />
     <Url Source="Resources/Images/hostid.png" />
     <Url Source="Resources/Images/Installation licenses clear license installation.png" />
@@ -31,7 +32,6 @@
     <Url Source="Resources/Images/06_pkg_man_ds_xmpl.png" />
     <Url Source="Resources/Images/06_pkg_man_main.png" />
     <Url Source="Resources/Images/04_inst_man_main_expnd.png" />
-    <Url Source="Resources/Images/03_inst_man_main.png" />
     <Url Source="Resources/Images/dload_page.png" />
     <Url Source="Resources/Images/01_utils_inst_man_popout.png" />
     <Url Source="Resources/Images/petrel_settings.png" />
