@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="1352" MadCap:lastWidth="1826" MadCap:tocPath="" MadCap:medium="print" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="PDF">
+    <head><title>4 OpendTect Presentation Maker Plugin</title>
+        <link href="file:///C:/documentation/Administrators/Administrators/Output/bart/Temporary/PDF/PDF_2300373B/Resources/Stylesheets/Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1 MadCap:xrefTargetName="4 OpendTect Presentation Maker Plugin"><a MadCap:generatedBookmark="TOC" name="4 OpendTect Presentation Maker Plugin"></a>4 OpendTect Presentation Maker Plugin<MadCap:keyword term="OpendTect Presentation Maker Plugin" /></h1>
+        <p style="font-weight: bold;">Introduction</p>
+        <p>python­-pptx is a Python library for creating and updating PowerPoint (.pptx) files. The OpendTect 'Presentation Maker' plugin uses this library to create a PowerPoint presentation from scene, window or desktop screenshots.</p>
+        <p style="font-weight: bold;">Python­pptx Installation</p>
+        <p>General installation information is at <a href="https://python-pptx.readthedocs.io/en/latest/user/install.html" target="_blank">this page</a>.</p>
+        <p style="font-weight: bold;">Windows</p>
+        <p style="font-weight: bold;">Preparation</p>
+        <p>On Windows, three packages need to be installed. First of all <code>python</code> itself, then <code>lxml</code> and finally <code>python-pptx</code>. The three packages have to be installed in the given order and installation instructions are given below. Before you start, create a new folder to store the Python installation, eg <code>C:\apps</code>.</p>
+        <p style="font-weight: bold;">Python</p>
+        <p>Install Python itself from <a href="https://www.python.org/downloads/release/python-2710/" target="_blank">this page</a>. Download the <i>Windows x86­64 MSI installer</i> for 64bit systems or <i>Windows x86 MSI installer</i> for 32bit systems. Click on the link. During installation, choose C:\apps as the installation folder and select the option to add Python to the <code>PATH</code> environment variable. If you don't get this option, or missed it, edit the <code>PATH</code> environment variable and add the following: <code>C:\apps\Python27\;C:\apps\Python27\Scripts;</code>. More information on settings environment variables in Windows can be found at <a href="http://www.computerhope.com/issues/ch000549.htm" target="_blank">this page</a>.</p>
+        <p><b>lxml</b>
+        </p>
+        <p>The package python-­pptx requires the lxml tools. Install binary for lxml from <a href="https://pypi.python.org/pypi/lxml" target="_blank">this page</a>. I installed version 3.4.4. After clicking on the version, download the Windows 64 python 2.7 package. At time of writing: <a href="https://pypi.python.org/packages/2.7/l/lxml/lxml-3.4.4.win-amd64-py2.7.exe#md5=f1f2d5ec1be1ca9b73756676125de5ae">lxml­3.4.4.win­amd64­py2.7.exe</a>. After downloading, double click on the exe file and follow onscreen instructions.</p>
+        <p style="font-weight: bold;">Python-­pptx</p>
+        <p>Open a Command Prompt (press Windows+R, type in cmd, and hit enter) and run: <code>pip install python-­pptx</code>.</p>
+        <p style="font-weight: bold;">Linux</p>
+        <p>Start by checking if python has been installed. Open a command line window and enter: python. If it's installed, you'll see some information in the terminal, like the version number.</p>
+        <p class="note">Currently, <code>python­-pptx</code> requires Python 2.6, 2.7, 3.3 or 3.4.</p>
+        <p>If python is not installed, install using your distribution's package manager, or ask your system administrator. <code>python­-pptx</code> is hosted on PyPI, so installing with <code>pip</code> is simple. First install lxml: <code>pip install lxml</code>, then install python­-pptx: <code>pip install python-­pptx</code> and you should be ready to go.</p>
+        <p style="font-weight: bold;">How to make the presentation</p>
+        <p>A presentation can be made in 2 different styles, as a blank presentation or by using a custom template (master) PowerPoint presentation. When you use the blank option, the template which is part of the python­-pptx installation will be used and all slides will have a white background. When you choose the custom option, you need to select an existing PowerPoint presentation. The plugin expects a PowerPoint file (a pptx file, not a potx!) with 2 slides. The first slide should be the title slide, i.e. a slide with the 'Title Slide' layout. The second slide should be a regular slide with 'Title and Content' layout. New slides will use the layout of the 2nd slide. Click on the settings icon to specify the Slide format and the image margins.</p>
+        <p>Three different images can be added as slides: Scene, Window or Desktop.­</p>
+        <ul>
+            <li value="1"><i>Scene</i>: The scene will be captured in an image. If you have multiple scenes, choose the scene you'd like to add. The name of the selected treeitem will be the name of the slide.­</li>
+            <li value="2"><i>Window</i>: Image of the selected window will be added. Note that windows on top of the selected window will also be captured in the image­</li>
+            <li value="3"><i>Desktop</i>: An image of the full desktop will be added.</li>
+        </ul>
+    </body>
+</html>

@@ -127,6 +127,19 @@
         <SortAsLinks />
       </IndexEntry>
       <IndexEntry
+        Term="Installation Guide">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="petrel_plugin_administration/installation_guide.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
         Term="Licenses">
         <Entries />
         <Links>
@@ -191,6 +204,19 @@
             LocalConditions="" />
           <IndexLink
             Link="installation/update/package_manager/offline_installation.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="OpendTect Presentation Maker Plugin">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="opendtect_presentation_maker_plugin.htm"
             UsedConditions=""
             LocalConditions="" />
         </Links>
@@ -415,6 +441,8 @@
     <Url
       Source="intro.htm" />
     <Url
+      Source="opendtect_presentation_maker_plugin.htm" />
+    <Url
       Source="petrel_plugin_administration.htm" />
     <Url
       Source="system_requirements.htm" />
@@ -455,11 +483,9 @@
     <Url
       Source="installation/update/package_manager/utilities_menu/show_log_file.htm" />
     <Url
-      Source="Products/Product A/Article1.htm" />
+      Source="petrel_plugin_administration/installation_guide.htm" />
     <Url
-      Source="Products/Product A/Article2.htm" />
-    <Url
-      Source="Products/Product A/Article3.htm" />
+      Source="Resources/master.flmsp" />
     <Url
       Source="Resources/Images/01_utils_inst_man_popout.png" />
     <Url
@@ -529,39 +555,40 @@
     <Url
       Source="Resources/Images/note.png" />
     <Url
+      Source="Resources/Images/ocean-plugin-manager.png" />
+    <Url
       Source="Resources/Images/od-dgb-logo.png" />
+    <Url
+      Source="Resources/Images/od-main-window.png" />
+    <Url
+      Source="Resources/Images/od-pro-package-installation-manager.png" />
+    <Url
+      Source="Resources/Images/petrel-direct-alpha.png" />
     <Url
       Source="Resources/Images/petrel_menu.png" />
     <Url
       Source="Resources/Images/petrel_settings.png" />
     <Url
+      Source="Resources/Images/plugin-manager.png" />
+    <Url
       Source="Resources/Images/uparrow.png" />
     <Url
       Source="Resources/Images/utils_inst_lics_inst_demo_popout.png" />
     <Url
-      Source="Resources/MasterPages/KB_Master_Page.flmsp" />
-    <Url
       Source="Resources/PageLayouts/Default.flpgl" />
     <Url
       Source="Resources/Stylesheets/Styles.css" />
-    <Url
-      Source="Resources/TableStyles/KBTable1.css" />
-    <Url
-      Source="Resources/TableStyles/KBTable2.css" />
     <Url
       Source="system_requirements/mac_os_x_10.6_and_up.htm" />
   </SourceUrls>
   <SourceLinkSetUrls />
   <UsedUrls>
     <Url
-      Source="Products/Product A/Article1.htm"
-      Terms="Product A:Article 1 | Default.Not Ready for Publish |  [4]" />
+      Source="petrel_plugin_administration/installation_guide.htm"
+      Terms="Installation Guide" />
     <Url
-      Source="Products/Product A/Article2.htm"
-      Terms="Product A:Article 2 | Default.Not Ready for Publish |  [4]" />
-    <Url
-      Source="Products/Product A/Article3.htm"
-      Terms="Product A:Article 3 | Default.Not Ready for Publish |  [4]" />
+      Source="opendtect_presentation_maker_plugin.htm"
+      Terms="OpendTect Presentation Maker Plugin" />
     <Url
       Source="flexnet_licenses_explained.htm"
       Terms="FlexNet Licenses Explained" />

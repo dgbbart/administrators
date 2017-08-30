@@ -1,5 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="Resources/Images/petrel_menu.png" />
+    <Url Source="Resources/Images/ocean-plugin-manager.png" />
+    <Url Source="Resources/Images/plugin-manager.png" />
+    <Url Source="Resources/Images/petrel-direct-alpha.png" />
+    <Url Source="Resources/Images/od-main-window.png" />
+    <Url Source="Resources/Images/od-pro-package-installation-manager.png" />
     <Url Source="Resources/Images/03_inst_man_main.png" />
     <Url Source="Resources/Images/Installation licenses show hostid lm tools.png" />
     <Url Source="Resources/Images/hostid.png" />
@@ -35,7 +41,6 @@
     <Url Source="Resources/Images/dload_page.png" />
     <Url Source="Resources/Images/01_utils_inst_man_popout.png" />
     <Url Source="Resources/Images/petrel_settings.png" />
-    <Url Source="Resources/Images/petrel_menu.png" />
     <Url Source="Resources/Images/note.png" />
     <Url Source="Resources/Images/od-dgb-logo.png" />
 </UrlList>

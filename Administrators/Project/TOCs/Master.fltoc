@@ -23,61 +23,68 @@
   </TocEntry>
   <TocEntry
     Title="3 Petrel Plugin Administration"
-    Link="/Content/petrel_plugin_administration.htm"></TocEntry>
+    Link="/Content/petrel_plugin_administration.htm">
+    <TocEntry
+      Title="3.1 Installation Guide"
+      Link="/Content/petrel_plugin_administration/installation_guide.htm"></TocEntry>
+  </TocEntry>
   <TocEntry
-    Title="4 Installation"
+    Title="4 OpendTect Presentation Maker Plugin"
+    Link="/Content/opendtect_presentation_maker_plugin.htm" />
+  <TocEntry
+    Title="5 Installation"
     Link="/Content/installation.htm">
     <TocEntry
-      Title="4.1 Update (Installation Manager)"
+      Title="5.1 Update (Installation Manager)"
       Link="/Content/installation/update.htm">
       <TocEntry
-        Title="4.1.1 Package Manager"
+        Title="5.1.1 Package Manager"
         Link="/Content/installation/update/package_manager.htm">
         <TocEntry
-          Title="4.1.1.1 Utilities Menu"
+          Title="5.1.1.1 Utilities Menu"
           Link="/Content/installation/update/package_manager/utilities_menu.htm">
           <TocEntry
-            Title="4.1.1.1.1 Export Download List"
+            Title="5.1.1.1.1 Export Download List"
             Link="/Content/installation/update/package_manager/utilities_menu/export_download_list.htm" />
           <TocEntry
-            Title="4.1.1.1.2 Rollback"
+            Title="5.1.1.1.2 Rollback"
             Link="/Content/installation/update/package_manager/utilities_menu/rollback.htm" />
           <TocEntry
-            Title="4.1.1.1.3 Show Log File"
+            Title="5.1.1.1.3 Show Log File"
             Link="/Content/installation/update/package_manager/utilities_menu/show_log_file.htm" />
         </TocEntry>
         <TocEntry
-          Title="4.1.1.2 Offline Installation"
+          Title="5.1.1.2 Offline Installation"
           Link="/Content/installation/update/package_manager/offline_installation.htm">
           <TocEntry
-            Title="4.1.1.2.1 Package Verification"
+            Title="5.1.1.2.1 Package Verification"
             Link="/Content/installation/update/package_manager/offline_installation/package_verification.htm" />
         </TocEntry>
       </TocEntry>
     </TocEntry>
     <TocEntry
-      Title="4.2 Auto-Update Policy"
+      Title="5.2 Auto-Update Policy"
       Link="/Content/installation/auto-update_policy.htm" />
     <TocEntry
-      Title="4.3 Connection Settings"
+      Title="5.3 Connection Settings"
       Link="/Content/installation/connection_settings.htm" />
     <TocEntry
-      Title="4.4 Plugins"
+      Title="5.4 Plugins"
       Link="/Content/installation/plugins.htm" />
     <TocEntry
-      Title="4.5 Setup Batch Processing"
+      Title="5.5 Setup Batch Processing"
       Link="/Content/installation/setup_batch_processing.htm" />
     <TocEntry
-      Title="4.6 Licenses"
+      Title="5.6 Licenses"
       Link="/Content/installation/licenses.htm">
       <TocEntry
-        Title="4.6.1 Install Demo/Node-Locked License"
+        Title="5.6.1 Install Demo/Node-Locked License"
         Link="/Content/installation/licenses/Install_Demo_Node-Locked_License.htm" />
       <TocEntry
-        Title="4.6.2 Clear License Installation"
+        Title="5.6.2 Clear License Installation"
         Link="/Content/installation/licenses/Clear_License_Installation.htm" />
       <TocEntry
-        Title="4.6.3 Show Host ID"
+        Title="5.6.3 Show Host ID"
         Link="/Content/installation/licenses/Show_HostID.htm" />
     </TocEntry>
   </TocEntry>

@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="http://doc.opendtect.org/6.0.0/doc/dgb_userdoc/Default.htm" />
+    <Link
+      Url="Content/Resources/Images/od-pro-package-installation-manager.png" />
+    <Link
+      Url="Content/Resources/Images/od-main-window.png" />
+    <Link
+      Url="Content/Resources/Images/petrel-direct-alpha.png" />
+    <Link
+      Url="http://dgbes.com/index.php/software/download" />
+    <Link
+      Url="http://www.opendtect.org/relman/OpendTectPetrelPluginInstaller_2014.msi" />
+    <Link
+      Url="http://www.opendtect.org/relman/OpendTectPetrelPluginInstaller_2015.msi" />
+    <Link
+      Url="http://www.opendtect.org/relman/OpendTectPetrelPluginInstaller_2016.msi" />
+    <Link
+      Url="Content/Resources/Images/petrel_menu.png" />
+    <Link
+      Url="http://www.opendtect.org/relman/dGBPetrelCommServer_2014.pip" />
+    <Link
+      Url="http://www.opendtect.org/relman/dGBPetrelCommServer_2015.pip" />
+    <Link
+      Url="http://www.opendtect.org/relman/dGBPetrelCommServer_2016.pip" />
+    <Link
+      Url="Content/Resources/Images/plugin-manager.png" />
+    <Link
+      Url="Content/Resources/Images/ocean-plugin-manager.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="http://doc.opendtect.org/6.0.0/doc/dgb_userdoc/Default.htm#opendtect_pro/petreldirect.htm" />
+    <Link
+      Url="Content/Resources/Images/od-pro-package-installation-manager.png" />
+    <Link
+      Url="Content/Resources/Images/od-main-window.png" />
+    <Link
+      Url="Content/Resources/Images/petrel-direct-alpha.png" />
+    <Link
+      Url="http://dgbes.com/index.php/software/download" />
+    <Link
+      Url="http://www.opendtect.org/relman/OpendTectPetrelPluginInstaller_2014.msi" />
+    <Link
+      Url="http://www.opendtect.org/relman/OpendTectPetrelPluginInstaller_2015.msi" />
+    <Link
+      Url="http://www.opendtect.org/relman/OpendTectPetrelPluginInstaller_2016.msi" />
+    <Link
+      Url="Content/Resources/Images/petrel_menu.png" />
+    <Link
+      Url="http://www.opendtect.org/relman/dGBPetrelCommServer_2014.pip" />
+    <Link
+      Url="http://www.opendtect.org/relman/dGBPetrelCommServer_2015.pip" />
+    <Link
+      Url="http://www.opendtect.org/relman/dGBPetrelCommServer_2016.pip" />
+    <Link
+      Url="Content/Resources/Images/plugin-manager.png" />
+    <Link
+      Url="Content/Resources/Images/ocean-plugin-manager.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Installation Guide"
+      Conditions=""
+      LocalConditions=""
+      Position="4" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>
