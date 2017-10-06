@@ -1,33 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="2320" MadCap:lastWidth="1826" MadCap:tocPath="5 Installation" MadCap:medium="print" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="PDF">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="2273" MadCap:lastWidth="1826" MadCap:tocPath="5 Installation" MadCap:medium="print" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="PDF">
     <head><title>5.5 Setup Batch Processing</title>
-        <link href="file:///C:/documentation/Administrators/Administrators/Output/bart/Temporary/PDF/PDF_2300373B/Resources/Stylesheets/Styles.css" rel="stylesheet" type="text/css" />
+        <link href="file:///C:/documentation/Administrators/Administrators/Output/bart/Temporary/PDF/PDF_FEDD6A4/Resources/Stylesheets/Styles.css" rel="stylesheet" type="text/css" />
     </head>
     <body>
         <h2 MadCap:xrefTargetName="5.5 Setup Batch Processing"><a MadCap:generatedBookmark="TOC" name="5.5 Setup Batch Processing"></a>5.5 Setup Batch Processing<MadCap:keyword term="Setup Batch Processing" /></h2>
         <p>In order to utilize OpendTect's capability for Multi-Machine Processing (MMP), a <i>BatchHosts</i> file must be created and used. This file  contains the list of remote machines (<i>host machines</i> or <i>nodes</i>) and some relevant details about these machines and the path to the Survey Data Root.  OpendTect will use this file to communicate to the remote hosts and launch processes remotely on them. Follow the example  format (shown below) to add the list of remote machines and their details in the respective fields.</p>
         <p>In order to minimize complications, the Setup Batch Processing tool (<b>Start OpendTect as ADMIN</b>)&#160;can be used to create a tailor-made BatchHosts file (via <i>Utilities--&gt; Installation--&gt; Setup Batch Processing...</i>):</p>
-        <img src="file:///C:/documentation/Administrators/Administrators/Output/bart/Temporary/PDF/PDF_2300373B/Resources/Images/Installation setup batch proc.png" class="" />
+        <img src="file:///C:/documentation/Administrators/Administrators/Output/bart/Temporary/PDF/PDF_FEDD6A4/Resources/Images/Installation setup batch proc.png" class="" />
         <p style="font-weight: normal;"><b>BatchHosts file:</b> This field is not editable in the User Interface. It is set as a user environment variable:</p>
-        <img src="file:///C:/documentation/Administrators/Administrators/Output/bart/Temporary/PDF/PDF_2300373B/Resources/Images/batchhost.png" class="" />
+        <img src="file:///C:/documentation/Administrators/Administrators/Output/bart/Temporary/PDF/PDF_FEDD6A4/Resources/Images/batchhost.png" class="" />
         <p><b>IP address:</b> IP address of the node machine(s)</p>
         <p><b>Hostname:</b> Hostname of the node machine(s)</p>
         <p><b>Display name:</b> Free-text field. Text entered here appears in the Multi-Machine Processing window.</p>
         <p><b>Platform:</b> Select platform type.</p>
         <p><b>Survey data root:</b> Location of the survey (the path to the survey data root folder from the host machine)</p>
         <p><b>Advanced Settings:</b> Here you may change the first port value (in the case that it is blocked/in use). Linux users may decide to change the shell command from the default <i>ssh</i> to <i>rsh</i>. The <i>Nice level</i> sets the priority on the host machines, 19 being nicest and 1 being least nice). Finally, the Default Data Root can be set per platform:</p>
-        <img src="file:///C:/documentation/Administrators/Administrators/Output/bart/Temporary/PDF/PDF_2300373B/Resources/Images/Installation setup batch proc advanced.png" class="" />
+        <img src="file:///C:/documentation/Administrators/Administrators/Output/bart/Temporary/PDF/PDF_FEDD6A4/Resources/Images/Installation setup batch proc advanced.png" class="" />
         <p>
-            <img src="file:///C:/documentation/Administrators/Administrators/Output/bart/Temporary/PDF/PDF_2300373B/Resources/Images/addnew.png" class="icon" /> <b>Add</b> new host.</p>
+            <img src="file:///C:/documentation/Administrators/Administrators/Output/bart/Temporary/PDF/PDF_FEDD6A4/Resources/Images/addnew.png" class="icon" /> <b>Add</b> new host.</p>
         <p>
-            <img src="file:///C:/documentation/Administrators/Administrators/Output/bart/Temporary/PDF/PDF_2300373B/Resources/Images/delete.png" class="icon" /> <b>Remove</b> selected host.</p>
+            <img src="file:///C:/documentation/Administrators/Administrators/Output/bart/Temporary/PDF/PDF_FEDD6A4/Resources/Images/delete.png" class="icon" /> <b>Remove</b> selected host.</p>
         <p>
-            <img src="file:///C:/documentation/Administrators/Administrators/Output/bart/Temporary/PDF/PDF_2300373B/Resources/Images/uparrow.png" class="icon" />
-            <img src="file:///C:/documentation/Administrators/Administrators/Output/bart/Temporary/PDF/PDF_2300373B/Resources/Images/downarrow.png" class="icon" /> <b>Move</b> host up or down.</p>
+            <img src="file:///C:/documentation/Administrators/Administrators/Output/bart/Temporary/PDF/PDF_FEDD6A4/Resources/Images/uparrow.png" class="icon" />
+            <img src="file:///C:/documentation/Administrators/Administrators/Output/bart/Temporary/PDF/PDF_FEDD6A4/Resources/Images/downarrow.png" class="icon" /> <b>Move</b> host up or down.</p>
         <p>
-            <img src="file:///C:/documentation/Administrators/Administrators/Output/bart/Temporary/PDF/PDF_2300373B/Resources/Images/checkgreen.png" class="icon" /> <b>Test hosts</b>. Will perform tests to ensure that the server and nodes can communicate to the necessary extent to perform the MMP. (ie: can the nodes find the data root folder and read/write into it)</p>
-        <img src="file:///C:/documentation/Administrators/Administrators/Output/bart/Temporary/PDF/PDF_2300373B/Resources/Images/Installation setup batch proc test hosts.png" class="" />
+            <img src="file:///C:/documentation/Administrators/Administrators/Output/bart/Temporary/PDF/PDF_FEDD6A4/Resources/Images/checkgreen.png" class="icon" /> <b>Test hosts</b>. Will perform tests to ensure that the server and nodes can communicate to the necessary extent to perform the MMP. (ie: can the nodes find the data root folder and read/write into it)</p>
+        <img src="file:///C:/documentation/Administrators/Administrators/Output/bart/Temporary/PDF/PDF_FEDD6A4/Resources/Images/Installation setup batch proc test hosts.png" class="" />
         <p>For more information on this topic, please refer to <a href="https://www.youtube.com/channel/UCiaLX2p5rCcovOK_NAwpaOQ" target="_blank">OpendTect's Youtube Channel</a> where you may find the webinar: <a href="https://www.youtube.com/watch?v=9bEXxZ0RyxU" target="_blank">Multi-Machine Processing Setup</a>.</p>
-        <p>Alternatively, refer to the webinar on the <a href="http://opendtect.org/index.php/support/videos/webinars" target="_blank">webinar</a> page.</p>
     </body>
 </html>
