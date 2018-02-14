@@ -1,68 +1,59 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="3076" MadCap:lastWidth="848">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="1729" MadCap:lastWidth="1801">
     <head>
     </head>
     <body>
         <h1>2 System Requirements<MadCap:keyword term="System Requirements" /></h1>
-        <p style="font-weight: bold;">Supported Platforms</p>
-        <p>OpendTect needs good hardware with up-to-date drivers - especially for 3D graphics. You can run on:</p>
+        <p style="font-weight: bold;">Windows (7/8/8.1/10)</p>
         <ul>
-            <li><a href="http://www.intel.nl/content/www/nl/nl/homepage.html" target="_blank">Intel</a> / <a href="http://www.amd.com/en-gb" target="_blank">AMD</a> under Linux (64 bits) or MS Windows (7/8/8.1/10 - 32 or 64 bits)</li>
-            <li><a href="http://www.apple.com/icloud/" target="_blank">Mac</a> / <a href="http://www.intel.nl/content/www/nl/nl/homepage.html" target="_blank">Intel</a> under OS X (10.6) and up.</li>
+            <li style="font-weight: normal;">Intel/AMD processor, preferably 64 bits</li>
+            <li style="font-weight: normal;">8 GB of RAM (16-32 GB recommended)</li>
+            <li style="font-weight: normal;">nVidia (e.g. GeForce 5x-10x series) graphics cards; AMD may work (e.g. Radeon 6xxx and 7xxx series) graphics cards</li>
+            <li style="font-weight: normal;">Up-to-date OpenGL drivers.</li>
         </ul>
-        <p style="font-weight: bold;">Hardware Requirements</p>
-        <p style="font-weight: bold;">Graphics</p>
-        <p>OpendTect requires a recent well-patched <a href="https://www.opengl.org/" target="_blank">OpenGL</a> installation. OpenGL drivers should be updated at least every half year to ensure optimal performance and compliance.</p>
-        <ul>
-            <li>Intel/AMD: Recent <a href="http://www.nvidia.com/content/global/global.php" target="_blank">nVidia</a> and AMD (ATI) graphics cards/chipsets. Well behaved are nVidia GeForce 500, 600 and 700 series and AMD (ATI) Radeon 6xxx and 7xxx series</li>
-            <li>Mac: Similar to the Intel/AMD platform.</li>
-        </ul>
-        <p>Main stream and high-end GPUs within the series are recommended, since low-level GPUs keep showing poor performances through the generations. Shading functionaly requires special GPU features, present in the cards listed above. Nevertheless, under Linux, only nVidia provides drivers capable of using the shading feature. If you can't see any colors on graphic elements, try disabling shading (Utilities-Look and Feel).</p>
-        <p style="font-weight: bold;">Background</p>
-        <p>OpendTect will attempt to use 'shading' - this means that some calculations are done on the graphics card. Unfortunately, not all cards behave properly. Very old cards will be no problem because they report that shading is not supported. Very new cards usually support it correctly (e.g. all nVidia-based cards and chipsets). Some older cards do give problems. These report that they support shading, but they support only part or so badly that the system almost stops. There are two settings for the user to cope with this:</p>
-        <ul>
-            <li>Do you want shading if the card reports that it is capable of it?</li>
-            <li>If so, do you also want it for volume rendering?</li>
-        </ul>
-        <p>Some cards (Like some ATI cards) support shading well but things go bad for volume rendering. The default is:</p>
-        <ul>
-            <li>Yes, use it if the card says it supports shading</li>
-            <li>No, do not use it for VR even if the card says it supports shading.</li>
-        </ul>
-        <p>Thus:</p>
-        <ul>
-            <li>If users get colorless inlines, time slices etc, they need to try disabling shading usage</li>
-            <li>If users want to try improved volume rendering, they can try enabling that</li>
-            <li>The access to these options is in the user's menu 'Utilities-Settings-Look &amp; Feel'.</li>
-        </ul>
-        <p style="font-weight: bold;">Memory</p>
-        <p>OpendTect needs at least have 2 GB internal (RAM) memory available. Therefore we would recommend machines with at least 4GB RAM, as the operating systems (especially Windows) will need their share of this, too.</p>
-        <p class="note">We are seeing an increasing number of crash reports from users attempting to use OpendTect v6 on machines with only 4GB RAM. With versions 4.6 &amp; 5, machines of this grade appeared to be capable but we do see this difference when v6 is installed.</p>
-        <p class="note">Depending on the size of the surveys we recommend 8-16 GB+. In special cases (big surveys or many data cubes) more memory may be required and data processing in larger surveys may require considerably more RAM.</p>
-        <p>A rule of thumb is to have at least 10 times the displayed number of samples available. Thus, to be able to display 10 inlines with 2000 crosslines and 1000 samples per trace, you'll need a minimum of 200 million bytes of memory, i.e. 200 MB.</p>
-        <p style="font-weight: bold;">Processor</p>
-        <p>For Linux and MS Windows, a modern Intel or AMD processor is required. Although OpendTect will run on 2 GHz processors or even less, we recommend 3+ GHz multi-core for a good working environment. Note that OpendTect heavily uses all processors if necessary.</p>
-        <p style="font-weight: bold;">Operating Systems</p>
+        <p class="note">Windows needs to be updated with the latest updates from Microsoft.</p>
         <p style="font-weight: bold;">Linux</p>
-        <p>A modern Linux distribution is required. <b>Minimum:</b></p>
         <ul>
-            <li><a href="https://www.suse.com/" target="_blank">SuSE</a> or <a href="https://www.opensuse.org/" target="_blank">OpenSuSE</a> 11.0</li>
-            <li><a href="https://www.redhat.com/en" target="_blank">Red Hat</a> Enterprise 5 (or the free <a href="https://www.centos.org/" target="_blank">CentOS</a> counterpart).</li>
+            <li style="font-weight: normal;">Modern Linux distro. We have tested: </li>
+            <li>
+                <ul>
+                    <li style="font-weight: normal;">RedHat/CentOS 6.X and higer</li>
+                    <li style="font-weight: normal;">Ubuntu 16.X and higher</li>
+                    <li style="font-weight: normal;">OpenSuSE 11.X and higher</li>
+                </ul>
+            </li>
+            <li style="font-weight: normal;">Other distros will probably work, possibly with as mall tweak</li>
+            <li style="font-weight: normal;">Intel/AMD processor with 64 bit support</li>
+            <li style="font-weight: normal;">8 GB&#160;of RAM (16-32 GB recommended)</li>
+            <li style="font-weight: normal;">nVidia (e.g. GeForce 5X-10X series) graphics cards; AMD may work (Radeon 6xxx and 7xxx series)</li>
+            <li style="font-weight: normal;">Up-to-date OpenGL drivers.</li>
         </ul>
-        <p>Linux distributions should be LSB compliant. You can check this using the command lsb_release. This is particularly stringent for commercial plugins using the FlexNet system. There is documentation on <a href="http://static.opendtect.org/images/PDF/flexnet_licensing_end_user_guide.pdf" target="_blank">installing license files for commercial plugins</a>, and there is a page with <a href="flexnet_licenses_explained.htm">background information</a>.</p>
-        <p>For both SuSE and Red Hat-based distributions 64 bits releases are available. OpendTect is known to work under <a href="http://www.debian.org/" target="_blank">Debian</a>, <a href="https://www.ubuntu.com/" target="_blank">Ubuntu</a> and other distributions, as well as earlier versions of the main distributions, too. <a href="https://getfedora.org/" target="_blank">Fedora</a> usage is not recommended - although it may work it's the only distro that regularly fails to work in combination with OpendTect. This is probably because the graphics vendors do not support it well in terms of drivers.</p>
-        <p style="font-weight: bold;">Mac OS X</p>
-        <p>Minimum is Mac OS X (10.6) - thus Mac/Intel. Mac/PowerPC support is not available. A 3-button mouse is highly recommended.</p>
-        <p class="note">OpendTect v5 supports Mac OS X from 10.6 up to, and including, Yosemite. But El Capitan will not run OpendTect v5. OpendTect v6 supports all Mac OS X from 10.6 onwards, including El Capitan.</p>
-        <p style="font-weight: bold;">MS Windows</p>
-        <p>Windows 7, 8, 8.1 and 10 are supported. Windows needs to be updated with the latest updates from Microsoft. Releases are available in both 32 and 64 bits.</p>
-        <p style="font-weight: bold;">Recommendations</p>
+        <p>Linux distros should be LSB compliant. You can check this using the command lsb_release. This is particularly stringent for commercial plugins using the FlexNet system. There is documentation on installing license files for commercial plugins, and there is a page with background information.</p>
+        <p class="note">Linux 64 bits releases require v6.0.11 (or newer) of the libstdc++ library to be present on the system. OpendTect is known to work under Red Hat, CentOS, Debian, Ubuntu and other distributions, as well as earlier versions of the main distributions, too. Fedora usage is not recommended - although it may work it's the only distro that regularly fails to work in combination with OpendTect. This is probably because the graphics vendors do not support it well in terms of drivers.</p>
+        <p style="font-weight: bold;">Mac(OS X 10.6 and up)</p>
+        <ul>
+            <li>Mac/Intel processor with 64-bit support</li>
+            <li>8 GB of RAM (16-32GB recommended)</li>
+            <li>Similar to the Intel/AMD platform graphics card</li>
+            <li>Up-to-date OpenGL drivers.</li>
+        </ul>
+        <p class="note">Mac/PowerPC support is NOT available. A 3-button mouse is highly recommended. OpendTect v5 supports Mac OS X from 10.6 up to, and including, Yosemite. But El Capitan will not run OpendTect v5. OpendTect v6 supports all Mac OS X from 10.6 onwards, including El Capitan.</p>
+        <p>If you are using Mac OS 10.9 or above please do the following before installing:</p>
+        <ul>
+            <li>Click on the 'Apple' button (top left), go to:</li>
+            <li>System Preferences</li>
+            <li>Security &amp; Privacy</li>
+            <li>General Tab</li>
+            <li>Allow apps to be installed from anywhere, (may ask for login)</li>
+            <li>Then run the installer. Once finished, change the security back (if you wish).</li>
+        </ul>
+        <p style="font-weight: bold;">Recomendations</p>
         <p>If you have mega-surveys with Tera-bytes of data, and you want to do very advanced calculations, then you'll need the best you can get. What is best? The main idea is to minimize the bottlenecks.</p>
         <ol>
-            <li><b>Graphics:</b> use nVidia or maybe ATI-based cards. At least these manufacturers have good drivers for all cards. For nVidia, you may want to avoid the 'professional' series. This can be a waste of money (but may just give you that little bit extra you want, too). In doubt, buy the top gaming card(s) you can find</li>
-            <li><b>CPU:</b> choose 64 bits. Many processors, high speeds. The more the better. OpendTect will automatically use multiple threads in many situations. It depends on the type of attribute, display, etc. but we put a lot of effort in getting time-consuming tasks multi-threaded. We are well aware that the number of processors will grow steadily</li>
-            <li><b>Memory:</b> buy as much memory as you can afford (and that will fit in the computer). The big clients for example use nothing less than 64 GB. OpendTect doesn't have a lot of tricks to minimize memory consumption; we figure that memory gets cheaper by the day so we greedily use memory for our purposes (we try to not waste it, though)</li>
-            <li><b>Disk storage:</b> this is usually under-valued, but it's very often the crucial performance component. RAID can speed up disks considerably. If you can, work on local disks. I've seen many examples of the total performance being miserable just because the data needed to stream through (relatively) slow networks.</li>
+            <li>Graphics: If using a laptop, ensure you get an nVidia chipset. Many high-end laptops have no nVidia chipset and then they will most probably not be able to run OpendTect properly. Use nVidia or maybe ATI-based cards. At least these manufacturers have good drivers for all cards. For nVidia, you may want to avoid the 'professional' series. This can be a waste of money (but may just give you that little bit extra you want, too). In doubt, buy the top gaming card(s) you can find. OpendTect requires a recent well-patched OpenGL installation. OpenGL drivers should be updated at least every half year to ensure optimal performance and compliance.Main stream and high-end GPUs within the series are recommended, since lowlevel GPUs keep showing poor performances through the generations. Shading functionaly requires special GPU features, present in the cards listed above. Nevertheless, under Linux, only nVidia provides drivers capable of using the shading feature. If you can't see any colors on graphic elements, try disabling shading (Utilities-Look and Feel).</li>
+            <li>CPU: For Linux and MS Windows, a modern Intel or AMD processor is required. Although OpendTect will run on 2 GHz processors or even less, we recommend 3+ GHz multi-core for a good working environment. Note that OpendTect heavily uses all processors if necessary. Choose 64 bits. Many processors, high speeds. The more the better. OpendTect will automatically use multiple threads in many situations. It depends on the type of attribute, display, etc. but we put a lot of effort in getting time-consuming tasks multi-threaded. We are well aware that the number of processors will grow steadily.</li>
+            <li>Memory: OpendTect needs at least 2 GB internal (RAM) memory available for itself. Therefore, 4 GB will almost certainly be an absolute minimum, to be on the safe side don't go for less than 8 GB. Buy as much memory as you can afford (and that will fit in the computer). The big clients for example use nothing less than 64 GB. OpendTect doesn't have a lot of tricks to minimize memory consumption; we figure that memory gets cheaper by the day so we greedily use memory for our purposes (we try to not waste it, though)</li>
+            <li>Disk storage: this is usually under-valued, but it's very often the crucial performance component. SSD disks will give a tremendous boost in performance; essentially, data on SSD disks loads almost as fast as pre-loaded, in-memory data. On the other side we have seen many examples of the total performance being miserable just because the data needed to stream through (relatively) slow networks.</li>
         </ol>
         <p>It's clear that the number of variables is huge, and that it's simply very difficult to predict whether a certain configuration will be good enough for your specific needs.</p>
     </body>

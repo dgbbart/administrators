@@ -16,11 +16,7 @@
   </TocEntry>
   <TocEntry
     Title="2 System Requirements"
-    Link="/Content/system_requirements.htm">
-    <TocEntry
-      Title="2.1 Mac OS X 10.6 and up"
-      Link="/Content/system_requirements/mac_os_x_10.6_and_up.htm" />
-  </TocEntry>
+    Link="/Content/system_requirements.htm"></TocEntry>
   <TocEntry
     Title="3 Petrel Plugin Administration"
     Link="/Content/petrel_plugin_administration.htm">
